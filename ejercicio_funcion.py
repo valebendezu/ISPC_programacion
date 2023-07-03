@@ -14,5 +14,6 @@ def conversion(seg):
             hor = minu/60
     print(f'{seg1} segundos son: {int(hor)} horas, {int(minu)} minutos y {seg} segundos. ')
 
+
 conversion(seg1)
 
